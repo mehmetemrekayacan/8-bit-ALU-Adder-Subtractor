@@ -1,0 +1,66 @@
+$date
+	Sat Feb 03 16:52:33 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ALU_8bit_tb $end
+$var wire 1 ! zero_flag $end
+$var wire 8 " result [7:0] $end
+$var wire 1 # overflow_flag $end
+$var reg 8 $ A [7:0] $end
+$var reg 8 % B [7:0] $end
+$var reg 3 & opcode [2:0] $end
+$scope module uut $end
+$var wire 8 ' A [7:0] $end
+$var wire 8 ( B [7:0] $end
+$var wire 3 ) opcode [2:0] $end
+$var reg 1 # overflow_flag $end
+$var reg 8 * result [7:0] $end
+$var reg 9 + temp_result [8:0] $end
+$var reg 1 ! zero_flag $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx +
+b11111111 *
+b0 )
+b110011 (
+b11001100 '
+b0 &
+b110011 %
+b11001100 $
+0#
+b11111111 "
+0!
+$end
+#10
+b10011001 "
+b10011001 *
+b1 &
+b1 )
+#20
+1!
+b0 "
+b0 *
+b10 &
+b10 )
+#30
+0!
+b11111111 "
+b11111111 *
+b11 &
+b11 )
+b1010101 %
+b1010101 (
+b10101010 $
+b10101010 '
+#40
+b101 &
+b101 )
+#50
