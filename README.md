@@ -11,7 +11,7 @@ This project encompasses the design of an 8-bit Arithmetic Logic Unit (ALU) circ
 
 ## Simulations
 
-- Click [here]([link/to/tinkercad](https://www.tinkercad.com/things/8qWWCuvdZCD-8-bit-alu-addersubtractor/editel?returnTo=%2Fdashboard)https://www.tinkercad.com/things/8qWWCuvdZCD-8-bit-alu-addersubtractor/editel?returnTo=%2Fdashboard) for the Tinkercad simulation.
+- Click [here](https://www.tinkercad.com/things/8qWWCuvdZCD-8-bit-alu-addersubtractor) for the Tinkercad simulation.
 
 
 <img src="https://github.com/mehmetemrekayacan/8-bit-ALU-Adder-Subtractor/assets/116388836/df58728f-36f6-43e6-8361-933d979bef58">
